@@ -3,7 +3,7 @@
 ## Data cleaning with SQL
 
 ### Dataset
-- Downloaded dataset from [Kaggle Nashville Housing Data] (https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data) by tmthyjames 
+- Downloaded dataset from [Kaggle Nashville Housing Data](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data) by tmthyjames 
 - There are 56,000+ rows altogether
 
 ### Performed data cleaning procedures
